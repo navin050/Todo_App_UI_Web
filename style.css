@@ -175,7 +175,7 @@ hr{
     box-shadow: 0px 0px 20px #67676729;
     border: 1px solid #EDEDED;
     border-radius: 10px;
-    /* opacity: 1; */
+    opacity: 100;
     position: absolute;
 }
 
